@@ -1,0 +1,20 @@
+{
+  "name": "best-practice-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commit.mjs",
+  "scripts": {
+    "commit": "node --experimental-modules ./commit.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullgit/best-practice-git.git"
+  },
+  "keywords": ["git", "commit", "amend", "squash", "history", "force", "push"],
+  "author": "Gregor Adams <greg@pixelass.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bullgit/best-practice-git/issues"
+  },
+  "homepage": "https://github.com/bullgit/best-practice-git#readme"
+}
